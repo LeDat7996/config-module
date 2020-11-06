@@ -1,0 +1,23 @@
+{
+    "name": "ledat96/config-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Le Thanh Dat",
+            "email": "lethanhdat791996@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Config\\": ""
+        }
+    }
+}
