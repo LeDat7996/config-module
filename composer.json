@@ -1,6 +1,7 @@
 {
     "name": "ledat96/config-module",
     "description": "",
+    "type": "laravel-module",
     "authors": [
         {
             "name": "Le Thanh Dat",
