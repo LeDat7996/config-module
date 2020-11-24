@@ -8,6 +8,8 @@
         "Modules\\Config\\Providers\\ConfigServiceProvider"
     ],
     "aliases": {},
-    "files": [],
+    "files": [
+        "Helpers/Data.php"
+    ],
     "requires": []
 }
